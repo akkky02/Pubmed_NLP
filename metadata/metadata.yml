@@ -1,0 +1,12 @@
+metadata_version: 1
+name: 'Data_Maniac (axp210092)  Challenge #1'
+description: This is a challenge hosted by Lantern Pharma for using NLP extraction
+  to create a machine learning  training data set for use in classifying drugs as
+  BCRP inhibitors or non-inhibitors
+tags:
+- Hackathon
+- UTD
+- BCRP
+- NLP
+authors:
+- name: Rick
